@@ -1,4 +1,4 @@
-![MasterHead](https://blog.instabug.com/wp-content/uploads/2020/02/AppDev_Flutter-Apps.png)
+![MasterHead](https://quokkalabs.com/blog/wp-content/uploads/2021/12/Flutter-Banner-scaled-e1646371068521.jpeg)
 <h1 align="center">Hi 👋, I'm Rutvik kalariya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
