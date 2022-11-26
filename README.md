@@ -1,4 +1,4 @@
-[![MasterHead](https://www.materialize.pro/wp-content/uploads/2021/10/FLUTTER-scaled.jpg)]
+![MasterHead](https://blog.instabug.com/wp-content/uploads/2020/02/AppDev_Flutter-Apps.png)
 <h1 align="center">Hi 👋, I'm Rutvik kalariya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
