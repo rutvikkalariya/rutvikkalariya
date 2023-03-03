@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rutvik</h1>
-<h3 align="center">I am currently working as a Software Development. I liaise and organise but I do enjoy coding!</h3>
+<h3 align="center">I am currently working as a Flutter Development. I liaise and organise but I do enjoy coding!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rutvikkalariya&label=Profile%20views&color=0e75b6&style=flat" alt="rutvikkalariya" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rutvikkalariya" alt="rutvikkalariya" /></a> </p>
 
 - 🌱 I’m currently learning **I’m always learning, but I have also coded a lot!**
 
@@ -23,5 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rutvikkalariya&show_icons=true&locale=en&layout=compact" alt="rutvikkalariya" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rutvikkalariya&show_icons=true&locale=en" alt="rutvikkalariya" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rutvikkalariya&" alt="rutvikkalariya" /></p>
